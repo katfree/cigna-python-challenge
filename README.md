@@ -8,7 +8,7 @@ You will send your Github repo link to your recruiter when finished.
 
 # **Instructions**
 
-Create an ETL script, which imports, parses, aggregates and outputs the data in 1 required 
+Using PYTHON, create an ETL script, which imports, parses, aggregates and outputs the data in 1 required 
 format, and for bonus points, several optional formats (more details below).
 
 The source data can be seen below in CSV format.
